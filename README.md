@@ -3,15 +3,15 @@
 ## Table of content
 ## General 
 I'm in using Ubuntu 20.04 
-This is tutorial for training model using EfficientNet on GPU with Tensorflow.
+This is tutorial for training model on GPU with Tensorflow.
 
 My system:
 
 Ubuntu 20.04
 
-Ram: 16GB
+Ram: 32GB
 
-GPU: GTX 2080
+GPU: GTX 2080Ti
 
 
 [Ref](https://phoenixnap.com/blog/future-gpu-machine-learning-ai)
